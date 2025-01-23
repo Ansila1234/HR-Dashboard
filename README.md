@@ -19,31 +19,31 @@ The dashboard aims to:
 ## Features
 #### Executive Summary
 A snapshot of overall workforce metrics, including:
-Total employees: 415
-Retention rate: 97%
-Satisfaction score: 96%
++ Total employees: 415
++ Retention rate: 97%
++ Satisfaction score: 96%
 
-### *Performance Metrics*
-Average performance rating by department and employment duration.
-Trends in employee performance ratings over five years.
+#### Performance Metrics
++ Average performance rating by department and employment duration.
++ Trends in employee performance ratings over five years.
 
-### *Compensation Analysis*
-Salary and bonus distribution across departments.
-Correlation between compensation, satisfaction, and retention rates.
-Cost per hire and its impact on employee retention.
+#### Compensation Analysis
++ Salary and bonus distribution across departments.
++ Correlation between compensation, satisfaction, and retention rates.
++ Cost per hire and its impact on employee retention.
 
-### *Turnover Analysis*
-Annual turnover trends and reasons for employee exits.
-Retention rates by employment duration and engagement levels.
+#### Turnover Analysis
++ Annual turnover trends and reasons for employee exits.
++ Retention rates by employment duration and engagement levels.
 
-### *Engagement & Training*
-Training completion rates by year.
-Top job titles based on training hours.
-Correlation between engagement scores and training hours.
+#### Engagement & Training
++ Training completion rates by year.
++ Top job titles based on training hours.
++ Correlation between engagement scores and training hours.
 
-### *Employee Demographics*
-Workforce distribution by age, gender, education level, and office location.
-Gender distribution within departments.
+#### Employee Demographics
++ Workforce distribution by age, gender, education level, and office location.
++ Gender distribution within departments.
 
 ## Impact
 This dashboard has driven significant improvements in HR processes:
@@ -57,21 +57,22 @@ This dashboard has driven significant improvements in HR processes:
 #### Data Preparation:
 + Consolidate HR data from multiple sources, including performance ratings, salary details, training hours, and demographic information.
 + Clean and preprocess the data using tools like Excel or Python.
-Dashboard Development:
 
-Import the dataset into Power BI.
-Design visualizations for each key metric (e.g., bar charts, line graphs, and heatmaps).
-Configure slicers for dynamic filtering by year, department, and location.
-Analysis:
+#### Dashboard Development:
++ Import the dataset into Power BI.
++ Design visualizations for each key metric (e.g., bar charts, line graphs, and heatmaps).
++ Configure slicers for dynamic filtering by year, department, and location.
 
-Use Power BI's DAX functions to calculate KPIs like retention rate, average satisfaction scores, and cost per hire.
-Identify trends and patterns using interactive visualizations.
-Testing and Deployment:
+#### Analysis:
++ Use Power BI's DAX functions to calculate KPIs like retention rate, average satisfaction scores, and cost per hire.
++ Identify trends and patterns using interactive visualizations.
 
-Test the dashboard with sample data to ensure accuracy.
-Share the dashboard with stakeholders via Power BI’s cloud service or export as a report.
-Technology Stack
-Power BI: For creating interactive visualizations and dashboards.
+#### Testing and Deployment:
++ Test the dashboard with sample data to ensure accuracy.
++ Share the dashboard with stakeholders via Power BI’s cloud service or export as a report.
+
+## Technology Stack
+ ** Power BI**  : For creating interactive visualizations and dashboards.
 Excel/Python: For data preprocessing and cleaning.
 How to Use
 Clone this repository.
