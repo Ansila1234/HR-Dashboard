@@ -17,7 +17,7 @@ The dashboard aims to:
 + Enhance transparency with clear visual representations of key metrics like retention rates, satisfaction scores, and compensation patterns.
 
 ## Features
-### *Executive Summary*
+#### Executive Summary
 A snapshot of overall workforce metrics, including:
 Total employees: 415
 Retention rate: 97%
