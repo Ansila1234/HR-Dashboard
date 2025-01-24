@@ -2,7 +2,6 @@
 
 [Link to Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWFhZGI0NWQtMzBjMy00YjJmLTkyNDMtY2NhZjQzZGJkMzdkIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
 
-[hf](https://app.powerbi.com/view?r=eyJrIjoiYWFhZGI0NWQtMzBjMy00YjJmLTkyNDMtY2NhZjQzZGJkMzdkIiwidCI6ImU5ODE4OTYxLTJkN2QtNGMwYS05ZGQ1LTI1MmRiYmM2ZWNkZiJ9)
 ## Overview
 The HR Analytics Dashboard is a comprehensive tool developed using Power BI to analyze and visualize critical HR metrics, enabling data-driven decision-making for organizational effectiveness.
 
